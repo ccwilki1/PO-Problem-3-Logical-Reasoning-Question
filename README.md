@@ -1,4 +1,30 @@
-# PO-Problem-3-Logical-Reasoning-Question
+# Problem # 2
+## Multiply by 11
+
+
+### Given a positive number as a string, multiply the number by 11 and also return it as a string. However, there is a catch:
+
+### You are NOT ALLOWED to simply cast the numeric string into an integer!
+
+### Now, how is this challenge even possible? Despite this, there is still a way to solve it, and it involves thinking about how someone might multiply by 11 in their head. See the tips below for guidance.
+
+String Multiply1 = "11";
+String Multiply2 = "121";
+String Multiply3 = "1331";
+String Multiply4 = "14641";
+String Multiply5 = "161051";
+
+Console.WriteLine(Multiply1);
+Console.WriteLine(Multiply2);
+Console.WriteLine(Multiply3);
+Console.WriteLine(Multiply3);
+Console.WriteLine(Multiply4);
+
+
+
+
+# Problem Number 3 
+## PO-Problem-3-Logical-Reasoning-Question
 
 
 
